@@ -31,11 +31,11 @@ To participate in the session, you will need to following:
 
 ## Agenda
 
-### Part 1: Introduction and a History Lesson
+### [Part 1: Introduction and a History Lesson](https://github.com/brandonmartinez/tc-modern-javascript-toolbox/blob/master/docs/agenda/Part1-IntroductionAndAHistoryLesson.md)
 
-Let's talk about how far we've come in the [20+ years](https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html) of having our (sometimes least) favorite language available to us!
+Let's talk about how far we've come in the [20+ years](https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html) of having our most favorite (sometimes least) language available to us!
 
-### Part 2: Setting Up a Node Application
+### [Part 2: Setting Up a Node Application](https://github.com/brandonmartinez/tc-modern-javascript-toolbox/blob/master/docs/agenda/Part2-SettingUpANodeApplication.md)
 
 We'll focus on project setup and structure, giving our code a place to live and breathe. We'll also setup and tooling needed to build our application, as well as talk about the pros-and-cons to some of the common alternatives.
 
@@ -44,7 +44,7 @@ We'll focus on project setup and structure, giving our code a place to live and 
 * Setup NPM tools and utilities required for session (gulp, webpack, etc)
 * Kick off a project.json file and get rolling into part three!
 
-### Part 3: Building the Application
+### [Part 3: Building the Application](blob/master/docs/agenda/Part3-BuildingTheApplication.md)
 
 Now that our project has a place to exist, it's time to start building it! We'll utilize some of the latest-and-greatest tools available in the JavaScript world, as well as work through some practical tips on how to plan for scaling to medium-and-larger-sized applications.
 
